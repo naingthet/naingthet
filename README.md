@@ -1,13 +1,20 @@
 ### Hi there 👋
+<p>
+  <a href="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
 
-<!--
-**naingthet/naingthet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
 
 🔭 I’m currently working on: 
-* An anime recommendation system and accompanying web application 
+- An anime recommendation system and accompanying web application
+- A machine learning model to assess the extent to which audio characteristics can predict song popularity
+- A song recommendation system that will suggest similar songs to DJs 
 
+
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
