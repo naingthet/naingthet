@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<p align='left'>
+<!-- <p align='left'>
 <a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.svg"></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 <p align='center'>
 <a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"></a>&nbsp;&nbsp;
