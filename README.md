@@ -1,5 +1,5 @@
-<p align='center'>
-<a href="https://tnaing.app"><img height="300" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"></a>&nbsp;&nbsp;
+<p align='left'>
+<a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.svg"></a>&nbsp;&nbsp;
 </p>
 
 ### Hi there 👋
