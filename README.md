@@ -6,7 +6,7 @@
 - 🎓 I studied Neuroscience and Statistics at Columbia University (class of 2019)
 
 ### 🔭 I am currently working on:
-- 📺 An anime recommendation system and accompanying web application
+- 📺 A hybrid (content-collaborative filtering) anime recommendation system and accompanying web application
 - 🎵 A machine learning model to assess the extent to which audio characteristics can predict song popularity
 - 🎹 A song recommendation system that will suggest similar songs to DJs
 
