@@ -24,7 +24,7 @@
 <p align='left'>
 <a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/thet-naing/"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="naing.thet97@gmail.com"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/email.png"></a>&nbsp;&nbsp;
+<a href="mailto:naing.thet97@gmail.com"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/email.png"></a>&nbsp;&nbsp;
 </p>
 
 ### ✍🏼 My latest posts
