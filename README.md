@@ -1,5 +1,5 @@
 # Hi there 👋
-[Click here to see my portfolio website](http://tnaing.app)
+# [Click here to see my portfolio website](http://tnaing.app)
 
 <p align='center'>
 <a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"></a>&nbsp;&nbsp;
@@ -17,7 +17,7 @@
 - 🎹 A song recommendation system that will suggest similar songs to DJs
 
 ### ⌨️ I work with:
-<p align='center'>
+<p align='left'>
 <a href="https://www.python.org/"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/python.png"></a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org/index.html"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/sql.png"></a>&nbsp;&nbsp;
 <a href="https://www.tensorflow.org/"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/tensorflow.png"></a>&nbsp;&nbsp;
