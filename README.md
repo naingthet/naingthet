@@ -1,5 +1,5 @@
-# Hi there 👋
-# [Click here to see my portfolio website](http://tnaing.app)
+## Hi there 👋
+## [Click here to see my portfolio website](http://tnaing.app)
 
 <p align='center'>
 <a href="https://tnaing.app"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/portfolio.png"></a>&nbsp;&nbsp;
