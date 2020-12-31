@@ -8,7 +8,7 @@
 ### 🔭 I am currently working on:
 - 📺 A hybrid (content-collaborative filtering) anime recommendation system and accompanying web application
 - 🎵 A machine learning model to assess the extent to which audio characteristics can predict song popularity
-- 🎹 A song recommendation system that will suggest similar songs to DJs
+- 🎹 A song recommendation system for DJs that will suggest songs to play next
 
 ### ⌨️ I work with:
 <p align='left'>
