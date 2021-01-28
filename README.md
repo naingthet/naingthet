@@ -27,7 +27,8 @@
 <a href="mailto:naing.thet97@gmail.com"><img height="30" src="https://github.com/naingthet/naingthet/blob/main/images/email.png"></a>&nbsp;&nbsp;
 </p>
 
-### ✍🏼 My latest posts
+### ✍🏼 My latest work:
+- [AniMate Anime Recommender (Ongoing)](https://github.com/naingthet/animate)
 - [Bitcoin Price Forecasting](https://naingthet.github.io/posts/bitcoin-price-forecasting/bitcoin-price-forecasting/)
 - [Credit Card Fraud Detection](https://naingthet.github.io/posts/fraud/fraud/)
 - [Digit Recognition with Convolutional Neural Networks](https://naingthet.github.io/posts/digit-recognizer/digit-recognizer/)
