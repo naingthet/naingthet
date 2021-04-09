@@ -2,13 +2,8 @@
 ### [Click here to see my portfolio website](http://tnaing.app)
 
 ### 🤵 About Me:
-- 🏦 I'm currently working as an Associate (Analyst) at IQVIA Consulting Services
+- 🏦 I am a Data Scientist at [NWO.ai](https://nwo.ai)
 - 🎓 I studied Neuroscience and Statistics at Columbia University (class of 2019)
-
-### 🔭 I am currently working on:
-- 📺 AniMate: a collaborative filtering anime recommendation system and accompanying web application
-- 🎵 A machine learning model to assess the extent to which audio characteristics can predict song popularity
-- 🎹 A song recommendation system for DJs that will suggest songs to play next
 
 ### ⌨️ I work with:
 <p align='left'>
