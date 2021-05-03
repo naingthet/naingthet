@@ -2,8 +2,8 @@
 ### [Click here to see my portfolio website](http://tnaing.app)
 
 ### 🤵 About Me:
-- 🏦 I am a Data Scientist at [NWO.ai](https://nwo.ai)
-- 🎓 I studied Neuroscience and Statistics at Columbia University (class of 2019)
+- 🏦  I am a Data Scientist at [NWO.ai](https://nwo.ai)
+- 🎓  I studied Neuroscience and Statistics at Columbia University (class of 2019)
 
 ### ⌨️ I work with:
 <p align='left'>
