@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me
-Hi! I am Thet Naing and I currently work as a Data Scientist at [nwo.ai](https://nwo.ai), a seed stage SaaS company where we leverage 100M trends all over the world. I specialize in machine learning and natural language processing, working in all stages of the software development lifecycle to deliver cutting-edge data tools to our clients. 
+Hi! I am Thet Naing and I currently work as a Data Scientist at [nwo.ai](https://nwo.ai), a seed stage SaaS company where we leverage artificial intelligence to generate insights for 100M trends from all over the world. I specialize in machine learning and natural language processing, working in all stages of the software development lifecycle to deliver cutting-edge AI tools to our clients. 
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
