@@ -32,7 +32,7 @@ Hi! I am Thet Naing and I currently work as a Data Scientist at [nwo.ai](https:/
 
 ### Get in Touch
 <p align='left'>
-<a href="https://tnaing.app"><img height="30" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://naingthet.github.io/"><img height="30" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/thet-naing/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:naing.thet97@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 </p>
