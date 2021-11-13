@@ -36,8 +36,3 @@ Hi! I am Thet Naing and I currently work as a Data Scientist at [nwo.ai](https:/
 <a href="https://www.linkedin.com/in/thet-naing/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:naing.thet97@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 </p>
-
-### My Recent Work with nwo.ai
-- [Our AI read 80M patent filings to find the best solutions for tackling climate change](https://inflectionpoint.nwo.ai/our-ai-read-80m-patent-filings-to-find-the-best-solutions-for-tackling-climate-change/)
-- [Guilty pleasures get a healthy makeover: the latest nutrition trends in the world of personalization](https://inflectionpoint.nwo.ai/guilty-pleasures-get-a-healthy-makeover-the-latest-nutrition-trends-in-the-world-of-personalization/)
-- [NWO.AI's weekly pulse: how plastic surgeons are benefiting from an explosion in body dysmorphia, travel nurses, the great avocado crunch, and more..](https://inflectionpoint.nwo.ai/plastic-surgeons-body-dysmorphia-travel-nurses-avocados-supply-chain/)
