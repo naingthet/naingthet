@@ -40,4 +40,5 @@
 </p>
 
 
-[![Thet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thetnaing)](https://github.com/naingthet/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
