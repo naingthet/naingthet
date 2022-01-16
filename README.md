@@ -32,14 +32,10 @@
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 
-### Get in Touch
-<p align='left'>
-<!-- <a href="https://naingthet.github.io/"><img height="30" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/thet-naing/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:naing.thet97@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-</p>
 
 
+
+### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 Python     16 hrs 17 mins  ██████████████░░░░░░░░░░░   56.01 % 
@@ -49,3 +45,10 @@ R          2 hrs 4 mins    █▓░░░░░░░░░░░░░░░�
 Makefile   1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 ```
 <!--END_SECTION:waka-->
+
+### Get in Touch
+<p align='left'>
+<!-- <a href="https://naingthet.github.io/"><img height="30" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/thet-naing/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:naing.thet97@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+</p>
