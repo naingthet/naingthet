@@ -36,10 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 13 mins   ██████████████████████░░░   87.43 %
-Docker   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-JSON     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
