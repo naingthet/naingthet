@@ -1,5 +1,8 @@
 # Hi there 👋
 
+### About Me
+I am a Data Scientist at [System](https://www.system.com), where my primary focus is building production-grade information extraction pipelines powered by the latest generation of language models.
+
 ### Languages and Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
