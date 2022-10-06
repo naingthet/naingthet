@@ -19,8 +19,8 @@ I am a Data Scientist at [System](https://www.system.com), where my primary focu
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 21 mins  ██████████████████▒░░░░░░   72.84 %
-Other        2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Python       19 hrs 32 mins  ███████████████████░░░░░░   75.92 %
+Other        2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 ```
 
 <!--END_SECTION:waka-->
