@@ -19,11 +19,11 @@ I am a Data Scientist at [System](https://www.system.com), where my primary focu
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 41 mins  ███████████████░░░░░░░░░░   59.91 %
-YAML         5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   23.68 %
-JSON         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Docker       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Python       16 hrs 10 mins  █████████████████▒░░░░░░░   69.81 %
+YAML         2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+JSON         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Text         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
