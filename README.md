@@ -16,12 +16,12 @@ I am a Machine Learning Engineer at [System](https://www.system.com), where my p
 <!--START_SECTION:waka-->
 
 ```text
-Python       19 hrs 48 mins  ████████████████████▓░░░░   82.82 %
-Text         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Makefile     53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-YAML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-SQL          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python       21 hrs 52 mins  ██████████████████████▓░░   90.40 %
+Text         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+SQL          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Makefile     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
