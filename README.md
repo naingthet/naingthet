@@ -4,8 +4,9 @@
 I am a Machine Learning Engineer at [System](https://www.system.com), where my primary focus is building large-scale information extraction pipelines powered by the latest generation of language models.
 
 ## My Favorite Tools Right Now
-- Prefect
-- Ruff
+- [Prefect](https://prefect.io): a Dataflow automation platform
+- [Graphite](https://graphite.dev): GitHub code review platform and stacked PR framework 
+- [Ruff](https://github.com/charliermarsh/ruff): Lightning Fast Python linter built in Rust
 
 
 ## Contributions
