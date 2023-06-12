@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am a Machine Learning Engineer at [System](https://www.system.com), where my primary focus is building large-scale information extraction pipelines powered by the latest generation of language models.
+I am a Senior Machine Learning Engineer at [System](https://www.system.com), where my primary focus is building large-scale information extraction pipelines powered by the latest generation of language models.
 
 ## My Favorite Tools Right Now
 - [Prefect](https://prefect.io): a Dataflow automation platform
